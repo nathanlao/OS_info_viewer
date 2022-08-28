@@ -1,1 +1,1 @@
-# OS_info_viewer
+# Operating System Information Display
